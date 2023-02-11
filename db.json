@@ -13,7 +13,75 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "rahul",
+      "image": "https://img.freepik.com/free-vector/cute-happy-smiling-child-isolated-white_1308-32243.jpg?size=338&ext=jpg",
+      "email": "rahul@gmail.com",
+      "password": "rahyl@123"
+    },
+    {
+      "name": "Deepak Bisht",
+      "image": "https://img.freepik.com/free-vector/cute-happy-smiling-child-isolated-white_1308-32243.jpg?size=338&ext=jpg",
+      "email": "ra@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Deepak Bisht",
+      "image": "https://cdn.pixabay.com/photo/2017/07/02/09/03/books-2463779__340.jpg",
+      "email": "deepakbisht9773724383@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Deepak Bisht",
+      "image": "https://cdn.pixabay.com/photo/2017/07/02/09/03/books-2463779__340.jpg",
+      "email": "deepakbisht9773724383@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "deepak",
+      "image": "https://cdn.pixabay.com/photo/2017/07/02/09/03/books-2463779__340.jpg",
+      "email": "deepal@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "deepakbisht9773724383@gmail.com",
+      "password": "masaischool",
+      "id": 6
+    },
+    {
+      "email": "bisht65190@gmail.com",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "blog": {
+    "id": 1,
+    "username": "coreyschafer",
+    "title": "Be Present",
+    "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, .",
+    "category": "Entertainment",
+    "date": "2017-06-01",
+    "likes": 24,
+    "comments": [
+      {
+        "username": "Jane",
+        "content ": "Good One"
+      },
+      {
+        "username": "Bob",
+        "content": "Loved It!"
+      }
+    ]
   }
 }
